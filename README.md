@@ -5,7 +5,7 @@ This repository contains various ESP8266 projects featured on the **Electritrony
 ## 📌 Projects  
 - [WebSocket Server](WebSocket%20Server/) – Real-time communication using WebSocket.  
 - [WiFi Manager](WiFi%20Manager/) – Easily configure WiFi credentials through a web interface.  
-- [WebSerial](WebSerial/) – Wireless serial communication for ESP8266.  
+- [OTA](OTA/) – Over-the-air update for ESP8266.  
 - More projects coming soon!  
 
 ## 🚀 Getting Started  
