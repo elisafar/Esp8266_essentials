@@ -1,0 +1,30 @@
+# Compilation files
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.a
+
+# Arduino IDE temporary files
+*.d
+*.eep
+*.sym
+*.lss
+
+# PlatformIO directories
+.pio/
+.vscode/
+
+# Libraries and dependencies
+lib/
+data/
+
+# Secret files
+secrets.txt
+config.json
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
