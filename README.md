@@ -1,1 +1,12 @@
-# Esp8266_essentials
+# ESP8266 Essentials  
+
+This repository contains various ESP8266 projects featured on the **Electritronyx** YouTube channel. Each project includes code, configurations, and web interfaces for different applications.  
+
+## 📌 Projects  
+- [WebSocket Server](WebSocket_Server/) – Real-time communication using WebSocket.  
+- [WiFi Manager](WiFi_Manager/) – Easily configure WiFi credentials through a web interface.  
+- [WebSerial](WebSerial/) – Wireless serial communication for ESP8266.  
+- More projects coming soon!  
+
+## 🚀 Getting Started  
+
